@@ -1,3 +1,3 @@
 <?php
-echo "Welcome to treselle"
+echo "Welcome to treselle. Welcome to phabricator"
 ?>
