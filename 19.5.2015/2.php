@@ -1,3 +1,4 @@
-<?php
+i<?php
 phpinfo();
+Hi allllll
 ?>
