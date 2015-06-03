@@ -1,4 +1,3 @@
-<?php
 done
 
 if [[ ! -z $iopt ]]
@@ -16,6 +15,4 @@ then
 {
 echo -e "Welcome"
 }
-fiphpinfo();
-echo "This is works fine"
-?>
+fi
